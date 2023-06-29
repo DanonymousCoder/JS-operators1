@@ -22,3 +22,8 @@ console.log(person);
 // "Age":22,
 // "About":"Commerce undergraduate"
 // }
+var test = 12
+function foo(){
+	console.log(test);
+}
+foo();
