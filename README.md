@@ -1,2 +1,2 @@
 # JS-operators1
-This is a repository for m
+This is a repository for me to practice
