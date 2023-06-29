@@ -34,3 +34,10 @@ function foo(){
 	console.log(test1, test2, test3);
 }
 foo();
+var test = 12;
+function foo(){
+	var test = 100;
+	console.log(test);
+}
+foo();
+console.log(test);
