@@ -42,8 +42,7 @@ function foo(){
 foo();
 console.log(test);
 
-
-	// Assigning values
+// Assigning values
 	let val1 = 5;
 	let val2 = 5;
 	// Equality Operator
