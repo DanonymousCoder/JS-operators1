@@ -71,7 +71,7 @@ console.log(test);
 
 	// Assigning values
 	let val11 = 5;
-	let val2 = 5;
+	let val22 = 5;
 	
 	// Logical !(NOT) Operator
 	console.log(!val2);
