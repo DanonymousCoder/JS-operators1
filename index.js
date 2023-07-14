@@ -82,3 +82,15 @@ console.log(test);
 	// Lgical ||(OR) Operator
 	console.log( val11 || val22 );
 
+	<script>
+	// Assigning values
+	let PMarks = 40
+	
+	// Ternary Operator
+	let result = (PMarks > 39)?
+		"Pass":"Fail";
+
+	console.log(result);
+</script>
+
+
