@@ -82,7 +82,6 @@ console.log(test);
 	// Lgical ||(OR) Operator
 	console.log( val11 || val22 );
 
-	<s
 	// Assigning values
 	let PMarks = 40
 	
