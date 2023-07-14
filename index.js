@@ -77,7 +77,7 @@ console.log(test);
 	console.log(!val22);
 
 	// Logical &&(AND) Operator
-	console.log( val1 && val2 );
+	console.log( val11 && val2 );
 	
 	// Lgical ||(OR) Operator
 	console.log( val1 || val2 );
