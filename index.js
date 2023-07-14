@@ -82,4 +82,4 @@ console.log(test);
 	
 	// Lgical ||(OR) Operator
 	console.log( val1 || val2 );
-</script>
+
