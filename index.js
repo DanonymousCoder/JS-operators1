@@ -74,7 +74,7 @@ console.log(test);
 	let val22 = 5;
 	
 	// Logical !(NOT) Operator
-	console.log(!val2);
+	console.log(!val22);
 
 	// Logical &&(AND) Operator
 	console.log( val1 && val2 );
