@@ -69,9 +69,8 @@ console.log(test);
 	// Less than or equal Operator
 	console.log(val1 <= val2);
 
-	<s
 	// Assigning values
-	let val1 = 5;
+	let val11 = 5;
 	let val2 = 5;
 	
 	// Logical !(NOT) Operator
