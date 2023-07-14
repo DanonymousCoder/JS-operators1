@@ -91,6 +91,6 @@ console.log(test);
 		"Pass":"Fail";
 
 	console.log(result);
-</script>
+</scrs
 
 
